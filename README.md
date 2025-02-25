@@ -9,3 +9,6 @@ This program allows to perform addition, subtraction, multiplication and transpo
 
 # Exp3: Stack Operations  
 This program allows to perform PUSH, POP, PEEP and DISPLAY operations in a Stack.
+
+# Exp4: Multiple Stack Operations  
+This program allows to perform PUSH, POP, PEEP and DISPLAY operations in a Stack using Multiple Stack operations due large number of elements in Stack.
