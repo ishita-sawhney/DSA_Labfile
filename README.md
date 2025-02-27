@@ -12,3 +12,6 @@ This program allows to perform PUSH, POP, PEEP and DISPLAY operations in a Stack
 
 # Exp4: Multiple Stack Operations  
 This program allows to perform PUSH, POP, PEEP and DISPLAY operations in a Stack using Multiple Stack operations due large number of elements in Stack.
+
+# Exp5: Parenthesis Checker
+This menu-driven program allows to check for mismatched brackets, too many open brackets or closing brackets, and hence, tells whether the string has balanced or unbalanced parenthesis 
