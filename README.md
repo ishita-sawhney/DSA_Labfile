@@ -15,3 +15,6 @@ This program allows to perform PUSH, POP, PEEP and DISPLAY operations in a Stack
 
 # Exp5: Parenthesis Checker
 This menu-driven program allows to check for mismatched brackets, too many open brackets or closing brackets, and hence, tells whether the string has balanced or unbalanced parenthesis 
+
+# Exp6: Infix to Postfix
+This program converts the infix expression given by the user into its postfix expression using stack-based approach
