@@ -18,3 +18,6 @@ This menu-driven program allows to check for mismatched brackets, too many open 
 
 # Exp6: Infix to Postfix
 This program converts the infix expression given by the user into its postfix expression using stack-based approach
+
+# Exp7: Infix to Prefix
+This program converts the infix expression given by the user into its prefix expression using stack-based approach
