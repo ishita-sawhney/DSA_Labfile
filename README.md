@@ -21,3 +21,6 @@ This program converts the infix expression given by the user into its postfix ex
 
 # Exp7: Infix to Prefix
 This program converts the infix expression given by the user into its prefix expression using stack-based approach
+
+# Exp8: Tower of Hanoi
+This program provides the solution to Tower of Hanoi problem depending on the number of disks. It gives the number of steps taken to solve the problem.
