@@ -24,3 +24,6 @@ This program converts the infix expression given by the user into its prefix exp
 
 # Exp8: Tower of Hanoi
 This program provides the solution to Tower of Hanoi problem depending on the number of disks. It gives the number of steps taken to solve the problem.
+
+# Exp9: Linear Queue
+This program allows to perform ENQUEUE, DEQUEUE, PEEP, and DISPLAY operations in a Linear Queue.
