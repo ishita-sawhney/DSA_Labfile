@@ -27,3 +27,6 @@ This program provides the solution to Tower of Hanoi problem depending on the nu
 
 # Exp9: Linear Queue
 This program allows to perform ENQUEUE, DEQUEUE, PEEP, and DISPLAY operations in a Linear Queue.
+
+# Exp10: Circular Queue
+This program allows to perform ENQUEUE, DEQUEUE, and DISPLAY operations in a Circular Queue.
