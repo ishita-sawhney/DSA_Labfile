@@ -30,3 +30,6 @@ This program allows to perform ENQUEUE, DEQUEUE, PEEP, and DISPLAY operations in
 
 # Exp10: Circular Queue
 This program allows to perform ENQUEUE, DEQUEUE, and DISPLAY operations in a Circular Queue.
+
+# Exp11: Singly Linked List
+This program allows to perform creation, display, insertion and deletion operations in singly linked list.
