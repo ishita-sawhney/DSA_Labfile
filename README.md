@@ -33,3 +33,6 @@ This program allows to perform ENQUEUE, DEQUEUE, and DISPLAY operations in a Cir
 
 # Exp11: Singly Linked List
 This program allows to perform creation, display, insertion and deletion operations in singly linked list.
+
+# Exp12: Doubly Linked List
+This program allows to perform creation, display, insertion and deletion operations in doubly linked list.
