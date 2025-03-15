@@ -36,3 +36,6 @@ This program allows to perform creation, display, insertion and deletion operati
 
 # Exp12: Doubly Linked List
 This program allows to perform creation, display, insertion and deletion operations in doubly linked list.
+
+# Exp13: Bubble, Insertion, and Selection Sort
+This program allows user to perform Bubble, Insertion or Selection Sort on the array entered by the user.
